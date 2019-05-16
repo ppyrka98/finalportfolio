@@ -45,3 +45,11 @@ html, body{
 .padding img {
     width: 100%;
 }
+#fixed {
+    background: url(img/background.jpg) no-repeat center center fixed;
+    display: table;
+    height: 60%;
+    position: relative;
+    width:100%;
+    background-size:cover;
+}
