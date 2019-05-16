@@ -13,3 +13,6 @@ html, body{
     padding: 0 15px 5px;
 
 }
+.navbar-default .navbar-nav li a {
+    color: #d5d5d5;
+}
