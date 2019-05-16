@@ -21,7 +21,7 @@ html, body{
 
 }
 #home{
-    background:url(img/city.jpg) no-repeat center center fixed;
+    background:url(img/logobackground.jpg) no-repeat center center fixed;
     display: table;
     height: 100%;
     position: relative;
